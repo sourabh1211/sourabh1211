@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sourabh1211" alt="sourabh1211" /></a> </p>
 
-- 🌱 I’m currently learning **Data Structures & Algorithms and MERN Stack Web Development.arning Data strures , mern stack web developments**
+- 🌱 I’m currently learning **Data Structures & Algorithms and MERN Stack Web Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
