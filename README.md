@@ -22,6 +22,9 @@
 <a href="https://leetcode.com/sourabh_1112/">
 <img height="316" src="https://leetcard.jacoblin.cool/sourabh_1112?theme=dark&font=Ubuntu&cache=14400&ext=contest&sheets=https://gist.githubusercontent.com/RedHeadphone/5e715e284c89cace8f5fa09f7fb930b8/raw/ec0be570f114124b1a2156a660d67baa0ab5639d/leetcode_stats_card.css" alt="Sourabh Leetcode Stats"/>
 </a>
+<a href="https://www.codechef.com/users/sourabh_1112">
+<img height="316" src="https://code-chef-stats-app.vercel.app/" alt="Sourabh Codeforces Stats"/>
+</a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
