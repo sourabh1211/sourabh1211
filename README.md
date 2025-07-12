@@ -6,11 +6,11 @@
 
 <h3 align="center">🚀 MERN Stack Developer | Competitive Programmer | Tech Enthusiast</h3>
 
-<p align="center">🌱 Currently exploring advanced DSA and full-stack projects using the MERN stack.</p>
+<p align="center">🌱 Currently mastering <strong>DSA</strong> and building full-stack apps using the <strong>MERN stack</strong>.</p>
 
 ---
 
-## 🌐 Connect With Me
+## 🔗 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/sourabh1112" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -19,58 +19,49 @@
 
 ---
 
-## 🚀 Projects
-
-<p align="center">
-  
-  <a href="https://sourabhsplitshare.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/SplitShare-Expense%20Tracker-blueviolet?style=for-the-badge" />
-  </a>
-  <a href="https://sourabhnotevault.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/NoteVault-Secure%20Notes-orange?style=for-the-badge" />
-  </a>
-  <a href="https://sourabhcodly.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Codly-Coding%20Forum-yellow?style=for-the-badge" />
-  </a>
-  <a href="https://sourabhcodejourney.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/CodeJourney-Progress%20Timeline-green?style=for-the-badge" />
-  </a>
-  <a href="https://sourabhfintrack.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/FinTrack-Income%20Expense%20App-cyan?style=for-the-badge" />
-  </a>
-
-</p>
+## 💼 Projects
 
 <div align="center">
 
 <table>
   <tr>
-    <td align="center" width="200">
-      <a href="https://sourabhsplitshare.vercel.app/"><img src="https://img.shields.io/badge/-SplitShare-blueviolet?style=for-the-badge" /></a>
-      <br/>
-      Group expense tracker with charts & settlement
+    <td align="center" width="300">
+      <a href="https://sourabhsplitshare.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/SplitShare-Group%20Expense%20Tracker-blueviolet?style=for-the-badge" /><br/><br/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sourabh1211&repo=splitshare&theme=radical" />
+      </a>
     </td>
-    <td align="center" width="200">
-      <a href="https://sourabhnotevault.vercel.app/"><img src="https://img.shields.io/badge/-NoteVault-orange?style=for-the-badge" /></a>
-      <br/>
-      Secure note storage with JWT and avatars
+    <td align="center" width="300">
+      <a href="https://sourabhnotevault.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/NoteVault-Secure%20Note%20Saver-orange?style=for-the-badge" /><br/><br/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sourabh1211&repo=notevault&theme=radical" />
+      </a>
     </td>
-    <td align="center" width="200">
-      <a href="https://sourabhcodly.vercel.app/"><img src="https://img.shields.io/badge/-Codly-yellow?style=for-the-badge" /></a>
-      <br/>
-      Post and discuss coding doubts interactively
+    <td align="center" width="300">
+      <a href="https://sourabhcodly.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/Codly-Coding%20Forum-yellow?style=for-the-badge" /><br/><br/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sourabh1211&repo=codly&theme=radical" />
+      </a>
     </td>
   </tr>
   <tr>
-    <td align="center" width="200">
-      <a href="https://sourabhcodejourney.vercel.app/"><img src="https://img.shields.io/badge/-CodeJourney-green?style=for-the-badge" /></a>
-      <br/>
-      Personal coding journey timeline
+    <td align="center" width="300">
+      <a href="https://sourabhcodejourney.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/CodeJourney-Progress%20Tracker-green?style=for-the-badge" /><br/><br/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sourabh1211&repo=codejourney&theme=radical" />
+      </a>
     </td>
-    <td align="center" width="200">
-      <a href="https://sourabhfintrack.vercel.app/"><img src="https://img.shields.io/badge/-FinTrack-cyan?style=for-the-badge" /></a>
-      <br/>
-      Expense/income dashboard with analytics
+    <td align="center" width="300">
+      <a href="https://sourabhfintrack.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/FinTrack-Income%20%26%20Expense-cyan?style=for-the-badge" /><br/><br/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sourabh1211&repo=fintrack&theme=radical" />
+      </a>
+    </td>
+    <td align="center" width="300">
+      <a href="https://github.com/sourabh1211/LeetCode-Solutions-Sourabh" target="_blank">
+        <img src="https://img.shields.io/badge/LeetCode%20Solutions-All%20My%20Codes-black?style=for-the-badge" /><br/><br/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sourabh1211&repo=LeetCode-Solutions-Sourabh&theme=radical" />
+      </a>
     </td>
   </tr>
 </table>
@@ -79,7 +70,7 @@
 
 ---
 
-## 👨‍💻 Coding Profiles
+## 💻 Coding Profiles
 
 <p align="center">
   <a href="https://leetcode.com/sourabh_1112/"><img src="https://img.shields.io/badge/LeetCode-%23007ACC.svg?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
@@ -88,20 +79,20 @@
   <a href="https://atcoder.jp/users/sourabh1112"><img src="https://img.shields.io/badge/AtCoder-1D3557?style=for-the-badge&logo=atcoder&logoColor=white"/></a>
 </p>
 
-<div align="center">
-  <img height="250" src="https://leetcard.jacoblin.cool/sourabh_1112?theme=dark&font=Karla" />
-</div>
+---
 
-<p align="center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=sourabh1112&theme=github_dark&border_color=2e3440" height="230"/>
-</p>
+## 🧠 LeetCode Summary
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/sourabh_1112?theme=dark&font=Karla&ext=heatmap" height="300px"/>
+</div>
 
 ---
 
-## 🔧 Tech Stack
+## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,html,css,js,react,nodejs,express,mongodb,firebase,tailwind,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=cpp,html,css,js,react,nodejs,express,mongodb,firebase,tailwind,git" />
 </p>
 
 ---
@@ -119,14 +110,4 @@
 
 ---
 
-## 📈 LeetCode Graph
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/sourabh_1112?ext=heatmap" />
-</p>
-
----
-
-<p align="center">
-  💬 Let's build something awesome together!
-</p>
+<p align="center"><strong>🔥 Let's connect and build something amazing together!</strong></p>
