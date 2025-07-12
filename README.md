@@ -60,13 +60,13 @@
       </div>
     </td>
     <td align="center" width="300">
-      <div class="project-box">
-        <a href="https://sourabhfintrack.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/FinTrack-Income%20%26%20Expense-cyan?style=for-the-badge" /><br/><br/>
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=sourabh1211&repo=fintrack&theme=radical" />
-        </a>
-      </div>
-    </td>
+  <div class="project-box">
+    <a href="https://sourabhfintrack.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/FinTrack-Income%20%26%20Expense-cyan?style=for-the-badge" /><br/><br/>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=sourabh1211&repo=FinTrack&theme=radical" />
+    </a>
+  </div>
+</td>
     <td align="center" width="300">
   <div class="project-box">
     <a href="https://github.com/sourabh1211/Leetcode-sourabh-solutions" target="_blank">
