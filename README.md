@@ -21,19 +21,6 @@
 
 ## 💼 Projects
 
-<style>
-.project-box:hover {
-  transform: scale(1.05);
-  box-shadow: 0px 0px 10px #ffffff60;
-  transition: 0.3s ease-in-out;
-  border-radius: 10px;
-}
-.project-box {
-  transition: 0.3s ease-in-out;
-  border-radius: 10px;
-}
-</style>
-
 <div align="center">
 
 <table>
