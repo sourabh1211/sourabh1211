@@ -1,45 +1,108 @@
-<h1 align="center">Hi 👋, I'm Sourabh</h1>
+<h1 align="center">Hi 👋, I'm Sourabh Verma</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sourabh1211&label=Profile%20views&color=0e75b6&style=flat" alt="sourabh1211" /> </p>
-
-- 🌱 I’m currently learning **Data Structures & Algorithms and MERN Stack Web Development.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sourabh1112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sourabh1112" height="30" width="40" /></a>
-<a href="https://instagram.com/sourabh_._verma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sourabh_._verma" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sourabh_1112" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sourabh_1112" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/sourabh1112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sourabh1112" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sourabh_1112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sourabh_1112" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/sourabhnatk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sourabhnatk" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sourabh1211&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<h3 align="left">Coding Profile:</h3>
-<span>
-<a href="https://codeforces.com/profile/sourabh1112">
-<img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=sourabh1112&theme=github_dark&force_username=true&border_color=404040" alt="Sourabh Codeforces Stats"/>
-</a>
-<a href="https://leetcode.com/sourabh_1112/">
-<img height="316" src="https://leetcard.jacoblin.cool/sourabh_1112?theme=dark&font=Ubuntu&cache=14400&ext=contest&sheets=https://gist.githubusercontent.com/RedHeadphone/5e715e284c89cace8f5fa09f7fb930b8/raw/ec0be570f114124b1a2156a660d67baa0ab5639d/leetcode_stats_card.css" alt="Sourabh Leetcode Stats"/>
-</a>
-<a href="https://www.codechef.com/users/sourabh_1112">
-<img height="316" src="https://code-chef-stats-app.vercel.app" alt="Sourabh Codechef Stats"/>
-</a>
+<h3 align="center">🚀 Aspiring Full-Stack Developer | Competitive Programmer | Tech Enthusiast</h3>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+<p align="center">🌱 I’m currently learning <strong>Data Structures & Algorithms</strong> and building projects using the <strong>MERN Stack</strong>.</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/sourabh1112" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://instagram.com/sourabh_._verma" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sourabh1211&show_icons=true&locale=en&layout=compact" alt="sourabh1211" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sourabh1211&show_icons=true&locale=en" alt="sourabh1211" /></p>
+## 🚧 Featured Projects
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sourabh1211&" alt="sourabh1211" /></p>
+### 🔹 [SplitShare](https://sourabhsplitshare.vercel.app/)
+> 💸 Group-based expense tracker with settlement support, charts, and user/group management.  
+> **Tech Stack:** React, Node.js, Express, MongoDB, Tailwind CSS  
+> 🔗 **[Live Demo](https://sourabhsplitshare.vercel.app/)**
+
+---
+
+### 🔹 [NoteVault](https://sourabhnotevault.vercel.app/)
+> 🗒️ Secure note-saving platform with login, JWT auth, and avatar support.  
+> **Tech Stack:** React, Node.js, Express, MongoDB, JWT, Bcrypt  
+> 🔗 **[Live Demo](https://sourabhnotevault.vercel.app/)**
+
+---
+
+### 🔹 [Codly](https://sourabhcodly.vercel.app/)
+> 💬 Post and discuss coding doubts. Like/dislike system with smooth UI.  
+> **Tech Stack:** React, Firebase, Tailwind CSS  
+> 🔗 **[Live Demo](https://sourabhcodly.vercel.app/)**
+
+---
+
+### 🔹 [CodeJourney](https://sourabhcodejourney.vercel.app/)
+> 📘 A timeline of coding journey showcasing skills, progress, and contest performance.  
+> **Tech Stack:** React, Tailwind CSS  
+> 🔗 **[Live Demo](https://sourabhcodejourney.vercel.app/)**
+
+---
+
+### 🔹 [FinTrack](https://sourabhfintrack.vercel.app/)
+> 📊 Track income/expenses, generate graphs, and view transaction history.  
+> **Tech Stack:** MERN Stack, Chart.js, JWT  
+> 🔗 **[Live Demo](https://sourabhfintrack.vercel.app/)**
+
+---
+
+## 💻 Coding Profiles
+
+<p align="center">
+  <a href="https://leetcode.com/sourabh_1112/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://codeforces.com/profile/sourabh1112">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  </a>
+  <a href="https://www.codechef.com/users/sourabh_1112">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+  </a>
+  <a href="https://atcoder.jp/users/sourabh1112">
+    <img src="https://img.shields.io/badge/AtCoder-1D3557?style=for-the-badge&logo=atcoder&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://codeforces.com/profile/sourabh1112">
+    <img height="250" src="https://codeforces-readme-stats.vercel.app/api/card?username=sourabh1112&theme=github_dark&force_username=true&border_color=404040" />
+  </a>
+  <a href="https://leetcode.com/sourabh_1112/">
+    <img height="250" src="https://leetcard.jacoblin.cool/sourabh_1112?theme=dark&font=Ubuntu" />
+  </a>
+</p>
+
+---
+
+## 🛠️ Languages and Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,html,css,js,react,nodejs,express,mongodb,firebase,tailwind,git" />
+</p>
+
+---
+
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sourabh1211&show_icons=true&theme=radical" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sourabh1211&layout=compact&theme=radical" height="180px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sourabh1211&theme=radical" height="200px"/>
+</p>
+
+---
+
+<p align="center">🔥 Thanks for visiting! Let's connect and collaborate 🚀</p>
