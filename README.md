@@ -21,19 +21,6 @@
 
 ## 💼 Projects
 
-<style>
-.project-box {
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
-  border-radius: 15px;
-  padding: 10px;
-}
-.project-box:hover {
-  transform: scale(1.05);
-  box-shadow: 0px 0px 15px rgba(255, 255, 255, 0.3);
-  background-color: #11111130;
-}
-</style>
-
 <div align="center">
 
 <table>
