@@ -76,7 +76,7 @@
   <a href="https://leetcode.com/sourabh_1112/"><img src="https://img.shields.io/badge/LeetCode-%23007ACC.svg?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
   <a href="https://codeforces.com/profile/sourabh1112"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
   <a href="https://www.codechef.com/users/sourabh_1112"><img src="https://img.shields.io/badge/CodeChef-%235B4638.svg?style=for-the-badge&logo=codechef&logoColor=white"/></a>
-  <a href="https://atcoder.jp/users/sourabh1112"><img src="https://img.shields.io/badge/AtCoder-1D3557?style=for-the-badge&logo=atcoder&logoColor=white"/></a>
+  <a href="https://atcoder.jp/users/sourabh_1112"><img src="https://img.shields.io/badge/AtCoder-1D3557?style=for-the-badge&logo=atcoder&logoColor=white"/></a>
 </p>
 
 ---
