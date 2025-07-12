@@ -68,13 +68,14 @@
       </div>
     </td>
     <td align="center" width="300">
-      <div class="project-box">
-        <a href="https://github.com/sourabh1211/Leetcode-sourabh-solutions" target="_blank">
-          <img src="https://img.shields.io/badge/LeetCode%20Solutions-All%20My%20Codes-black?style=for-the-badge" /><br/><br/>
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=sourabh1211&repo=LeetCode-Solutions-Sourabh&theme=radical" />
-        </a>
-      </div>
-    </td>
+  <div class="project-box">
+    <a href="https://github.com/sourabh1211/Leetcode-sourabh-solutions" target="_blank">
+      <img src="https://img.shields.io/badge/LeetCode%20Solutions-All%20My%20Codes-black?style=for-the-badge" /><br/><br/>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=sourabh1211&repo=Leetcode-sourabh-solutions&theme=radical" />
+    </a>
+  </div>
+</td>
+
   </tr>
 </table>
 
