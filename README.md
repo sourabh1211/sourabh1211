@@ -13,13 +13,26 @@
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/sourabh1112" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://instagram.com/sourabh_._verma" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/sourabh1112" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>LinkedIn</a>
+  <a href="https://instagram.com/sourabh_vr" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>Instagram</a>
 </p>
 
 ---
 
 ## 💼 Projects
+
+<style>
+.project-box {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  border-radius: 15px;
+  padding: 10px;
+}
+.project-box:hover {
+  transform: scale(1.05);
+  box-shadow: 0px 0px 15px rgba(255, 255, 255, 0.3);
+  background-color: #11111130;
+}
+</style>
 
 <div align="center">
 
@@ -27,52 +40,52 @@
   <tr>
     <td align="center" width="300">
       <div class="project-box">
-      <a href="https://sourabhsplitshare.vercel.app/" target="_blank">
-        <img src="https://img.shields.io/badge/SplitShare-Group%20Expense%20Tracker-blueviolet?style=for-the-badge" /><br/><br/>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sourabh1211&repo=splitshare&theme=radical" />
-      </a>
+        <a href="https://sourabhsplitshare.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/SplitShare-Group%20Expense%20Tracker-blueviolet?style=for-the-badge" /><br/><br/>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=sourabh1211&repo=splitshare&theme=radical" />
+        </a>
       </div>
     </td>
     <td align="center" width="300">
       <div class="project-box">
-      <a href="https://sourabhnotevault.vercel.app/" target="_blank">
-        <img src="https://img.shields.io/badge/NoteVault-Secure%20Note%20Saver-orange?style=for-the-badge" /><br/><br/>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sourabh1211&repo=notevault&theme=radical" />
-      </a>
+        <a href="https://sourabhnotevault.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/NoteVault-Secure%20Note%20Saver-orange?style=for-the-badge" /><br/><br/>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=sourabh1211&repo=notevault&theme=radical" />
+        </a>
       </div>
     </td>
     <td align="center" width="300">
       <div class="project-box">
-      <a href="https://sourabhcodly.vercel.app/" target="_blank">
-        <img src="https://img.shields.io/badge/Codly-Coding%20Forum-yellow?style=for-the-badge" /><br/><br/>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sourabh1211&repo=codly&theme=radical" />
-      </a>
+        <a href="https://sourabhcodly.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Codly-Coding%20Forum-yellow?style=for-the-badge" /><br/><br/>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=sourabh1211&repo=codly&theme=radical" />
+        </a>
       </div>
     </td>
   </tr>
   <tr>
     <td align="center" width="300">
       <div class="project-box">
-      <a href="https://sourabhcodejourney.vercel.app/" target="_blank">
-        <img src="https://img.shields.io/badge/CodeJourney-Progress%20Tracker-green?style=for-the-badge" /><br/><br/>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sourabh1211&repo=codejourney&theme=radical" />
-      </a>
+        <a href="https://sourabhcodejourney.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/CodeJourney-Progress%20Tracker-green?style=for-the-badge" /><br/><br/>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=sourabh1211&repo=codejourney&theme=radical" />
+        </a>
       </div>
     </td>
     <td align="center" width="300">
       <div class="project-box">
-      <a href="https://sourabhfintrack.vercel.app/" target="_blank">
-        <img src="https://img.shields.io/badge/FinTrack-Income%20%26%20Expense-cyan?style=for-the-badge" /><br/><br/>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sourabh1211&repo=fintrack&theme=radical" />
-      </a>
+        <a href="https://sourabhfintrack.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/FinTrack-Income%20%26%20Expense-cyan?style=for-the-badge" /><br/><br/>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=sourabh1211&repo=fintrack&theme=radical" />
+        </a>
       </div>
     </td>
     <td align="center" width="300">
       <div class="project-box">
-      <a href="https://github.com/sourabh1211/LeetCode-Solutions-Sourabh" target="_blank">
-        <img src="https://img.shields.io/badge/LeetCode%20Solutions-All%20My%20Codes-black?style=for-the-badge" /><br/><br/>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sourabh1211&repo=LeetCode-Solutions-Sourabh&theme=radical" />
-      </a>
+        <a href="https://github.com/sourabh1211/LeetCode-Solutions-Sourabh" target="_blank">
+          <img src="https://img.shields.io/badge/LeetCode%20Solutions-All%20My%20Codes-black?style=for-the-badge" /><br/><br/>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=sourabh1211&repo=LeetCode-Solutions-Sourabh&theme=radical" />
+        </a>
       </div>
     </td>
   </tr>
@@ -88,7 +101,7 @@
   <a href="https://leetcode.com/sourabh_1112/"><img src="https://img.shields.io/badge/LeetCode-%23007ACC.svg?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
   <a href="https://codeforces.com/profile/sourabh1112"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
   <a href="https://www.codechef.com/users/sourabh_1112"><img src="https://img.shields.io/badge/CodeChef-%235B4638.svg?style=for-the-badge&logo=codechef&logoColor=white"/></a>
-  <a href="https://atcoder.jp/users/sourabh1112"><img src="https://img.shields.io/badge/AtCoder-1D3557?style=for-the-badge&logo=atcoder&logoColor=white"/></a>
+  <a href="https://atcoder.jp/users/sourabh_1112"><img src="https://img.shields.io/badge/AtCoder-1D3557?style=for-the-badge&logo=atcoder&logoColor=white"/></a>
 </p>
 
 ---
