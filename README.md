@@ -44,7 +44,7 @@
     <td align="center" width="300">
       <div class="project-box">
         <a href="https://sourabhcodly.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Codly-Coding%20Forum-yellow?style=for-the-badge" /><br/><br/>
+          <img src="https://img.shields.io/badge/Codly-Code%20IDE-yellow?style=for-the-badge" /><br/><br/>
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=sourabh1211&repo=codly&theme=radical" />
         </a>
       </div>
