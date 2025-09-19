@@ -13,6 +13,16 @@
 
 ---
 
+## 👨‍💻 About Me  
+
+- 🎯 Passionate about **Competitive Programming** and **Full-Stack Development**  
+- 🚀 Always exploring **DSA**, **Web Dev**, and **Open Source**  
+- 🌱 Currently learning **System Design & Advanced Backend**  
+- 🎓 B.Tech in Computer Science (final year)  
+- ⚡ Fun fact: I solve bugs faster at 2AM than during the day 😉  
+
+---
+
 ## 🔗 Connect With Me
 
 <p align="center">
@@ -35,7 +45,6 @@
 
 <div align="center">
 
-<!-- Subtle motion via pins + badges; titles act like hover tooltips -->
 <table>
   <tr>
     <td align="center" width="300">
@@ -79,7 +88,6 @@
   </tr>
 </table>
 
-<!-- Collapsible details for quick tech blurbs -->
 <details>
   <summary><b>🔍 Quick Tech Highlights (click to expand)</b></summary>
 
@@ -131,11 +139,25 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tools & Environments  
+
+- 💻 **Languages:** C++, JavaScript, TypeScript, SQL  
+- 🌐 **Frontend:** React.js, Next.js, Tailwind CSS  
+- ⚙️ **Backend:** Node.js, Express.js, Prisma, REST APIs  
+- 🗄️ **Databases:** MongoDB, PostgreSQL, Firebase  
+- 🔧 **Tools:** Git, VSCode, Postman, Docker  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,html,css,js,react,nodejs,express,mongodb,firebase,tailwind,git" />
 </p>
+
+---
+
+## 🏅 Badges  
+
+![LeetCode Badge](https://img.shields.io/badge/LeetCode-1500%2B%20Problems-orange?style=for-the-badge&logo=leetcode)  
+![Codeforces Badge](https://img.shields.io/badge/Codeforces-Expert-blue?style=for-the-badge&logo=codeforces)  
+![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-2025-orange?style=for-the-badge&logo=hackthebox)  
 
 ---
 
@@ -151,21 +173,26 @@
 </p>
 
 <p align="center">
-  <!-- Animated trophies (no background, sleek) -->
   <img src="https://github-profile-trophy.vercel.app/?username=sourabh1211&theme=algolia&no-bg=true&no-frame=true&margin-w=8&margin-h=8" />
 </p>
 
-<!-- Activity Graph (animated strokes) -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sourabh1211&theme=react-dark&hide_border=true&area=true" alt="Activity Graph"/>
 </p>
 
 ---
 
-## ✨ Extras
+## 🐍 Contribution Snake  
 
 <p align="center">
-  <!-- Random developer quote adds subtle motion on refresh -->
+  <img src="https://github.com/sourabh1211/sourabh1211/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## ✨ Extras  
+
+<p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote" />
 </p>
 
