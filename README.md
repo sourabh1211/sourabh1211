@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=640&lines=Competitive+Programmer;MERN+Stack+Web+Developer;DSA+%7C+Backend+%7C+Frontend+%7C+MongoDB;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=640&lines=Competitive+Programmer;MERN+Stack+Web+Developer;DSA+%7C+Backend+%7C+Frontend%20%7C%20MongoDB;Open%20Source%20Contributor" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -85,12 +85,126 @@
 <!-- Animated motion line -->
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6" alt="divider"/></p>
 
+## 💼 Projects
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="320">
+      <a href="https://sourabhsplitshare.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/SplitShare-Group%20Expense%20Tracker-blueviolet?style=for-the-badge" /><br/><br/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sourabh1211&repo=splitshare&theme=radical" />
+      </a>
+      <br/>
+      <!-- Effects: animated band + badges -->
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4" alt="glow"/>
+      <br/>
+      <a href="https://sourabhsplitshare.vercel.app/"><img src="https://img.shields.io/badge/Live-Demo-22c55e?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+      <img src="https://img.shields.io/badge/Stack-React%20%7C%20Node%20%7C%20MongoDB-0ea5e9?style=for-the-badge"/>
+      <img src="https://img.shields.io/github/stars/sourabh1211/splitshare?style=for-the-badge&logo=github"/>
+      <img src="https://img.shields.io/github/issues/sourabh1211/splitshare?style=for-the-badge"/>
+      <img src="https://img.shields.io/github/last-commit/sourabh1211/splitshare?style=for-the-badge"/>
+    </td>
+    <td align="center" width="320">
+      <a href="https://sourabhnotevault.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/NoteVault-Secure%20Note%20Saver-orange?style=for-the-badge" /><br/><br/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sourabh1211&repo=notevault&theme=radical" />
+      </a>
+      <br/>
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4" alt="glow"/>
+      <br/>
+      <a href="https://sourabhnotevault.vercel.app/"><img src="https://img.shields.io/badge/Live-Demo-22c55e?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+      <img src="https://img.shields.io/badge/Stack-React%20%7C%20Express%20%7C%20JWT-f97316?style=for-the-badge"/>
+      <img src="https://img.shields.io/github/stars/sourabh1211/notevault?style=for-the-badge&logo=github"/>
+      <img src="https://img.shields.io/github/issues/sourabh1211/notevault?style=for-the-badge"/>
+      <img src="https://img.shields.io/github/last-commit/sourabh1211/notevault?style=for-the-badge"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="320">
+      <a href="https://sourabhcodly.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/Codly-Code%20IDE-yellow?style=for-the-badge" /><br/><br/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sourabh1211&repo=codly&theme=radical" />
+      </a>
+      <br/>
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4" alt="glow"/>
+      <br/>
+      <a href="https://sourabhcodly.vercel.app/"><img src="https://img.shields.io/badge/Live-Demo-22c55e?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+      <img src="https://img.shields.io/badge/Stack-React%20%7C%20Monaco%20Editor-ef4444?style=for-the-badge"/>
+      <img src="https://img.shields.io/github/stars/sourabh1211/codly?style=for-the-badge&logo=github"/>
+      <img src="https://img.shields.io/github/issues/sourabh1211/codly?style=for-the-badge"/>
+      <img src="https://img.shields.io/github/last-commit/sourabh1211/codly?style=for-the-badge"/>
+    </td>
+    <td align="center" width="320">
+      <a href="https://sourabhcodejourney.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/CodeJourney-Progress%20Tracker-green?style=for-the-badge" /><br/><br/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sourabh1211&repo=codejourney&theme=radical" />
+      </a>
+      <br/>
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4" alt="glow"/>
+      <br/>
+      <a href="https://sourabhcodejourney.vercel.app/"><img src="https://img.shields.io/badge/Live-Demo-22c55e?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+      <img src="https://img.shields.io/badge/Stack-React%20%7C%20Firebase-10b981?style=for-the-badge"/>
+      <img src="https://img.shields.io/github/stars/sourabh1211/codejourney?style=for-the-badge&logo=github"/>
+      <img src="https://img.shields.io/github/issues/sourabh1211/codejourney?style=for-the-badge"/>
+      <img src="https://img.shields.io/github/last-commit/sourabh1211/codejourney?style=for-the-badge"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="320">
+      <a href="https://sourabhfintrack.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/FinTrack-Income%20%26%20Expense-cyan?style=for-the-badge" /><br/><br/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sourabh1211&repo=FinTrack&theme=radical" />
+      </a>
+      <br/>
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4" alt="glow"/>
+      <br/>
+      <a href="https://sourabhfintrack.vercel.app/"><img src="https://img.shields.io/badge/Live-Demo-22c55e?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+      <img src="https://img.shields.io/badge/Stack-React%20%7C%20Chart.js-06b6d4?style=for-the-badge"/>
+      <img src="https://img.shields.io/github/stars/sourabh1211/FinTrack?style=for-the-badge&logo=github"/>
+      <img src="https://img.shields.io/github/issues/sourabh1211/FinTrack?style=for-the-badge"/>
+      <img src="https://img.shields.io/github/last-commit/sourabh1211/FinTrack?style=for-the-badge"/>
+    </td>
+    <td align="center" width="320">
+      <a href="https://github.com/sourabh1211/Leetcode-sourabh-solutions" target="_blank">
+        <img src="https://img.shields.io/badge/LeetCode%20Solutions-All%20My%20Codes-black?style=for-the-badge" /><br/><br/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sourabh1211&repo=Leetcode-sourabh-solutions&theme=radical" />
+      </a>
+      <br/>
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4" alt="glow"/>
+      <br/>
+      <a href="https://github.com/sourabh1211/Leetcode-sourabh-solutions"><img src="https://img.shields.io/badge/Open-Repository-0ea5e9?style=for-the-badge&logo=github"/></a>
+      <img src="https://img.shields.io/badge/Stack-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+      <img src="https://img.shields.io/github/stars/sourabh1211/Leetcode-sourabh-solutions?style=for-the-badge&logo=github"/>
+      <img src="https://img.shields.io/github/last-commit/sourabh1211/Leetcode-sourabh-solutions?style=for-the-badge"/>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<!-- Animated motion line -->
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6" alt="divider"/></p>
+
+## 💻 Coding Profiles
+
+<p align="center">
+  <a href="https://leetcode.com/sourabh_1112/"><img src="https://img.shields.io/badge/LeetCode-%23007ACC.svg?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+  <a href="https://codeforces.com/profile/sourabh1112"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+  <a href="https://www.codechef.com/users/sourabh_1112"><img src="https://img.shields.io/badge/CodeChef-%235B4638.svg?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+  <a href="https://atcoder.jp/users/sourabh_1112"><img src="https://img.shields.io/badge/AtCoder-1D3557?style=for-the-badge&logo=atcoder&logoColor=white"/></a>
+</p>
+
+<!-- Animated motion line -->
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6" alt="divider"/></p>
+
 ## 📈 CP Summary
 
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <img src="https://leetcard.jacoblin.cool/sourabh_1112?theme=dark&font=Ubuntu&cache=14400&ext=contest&sheets=https://gist.githubusercontent.com/RedHeadphone/5e715e284c89cace8f5fa09f7fb930b8/raw/ec0be570f114124b1a2156a660d67baa0ab5639d/leetcode_stats_card.css" />
+      <img src="https://leetcard.jacoblin.cool/sourabh_1112?theme=dark&font=Ubuntu&cache=14400&ext=contest" />
     </td>
     <td align="center" width="50%">
       <img src="https://codeforces-readme-stats.vercel.app/api/card?username=sourabh1112&theme=github_dark&force_username=true&border_color=404040" />
@@ -116,6 +230,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=sourabh1211&theme=radical" height="200px"/>
 </p>
 
+<!-- Optional animated contribution graph (3D/animated look) -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake"/>
 </p>
@@ -124,3 +239,9 @@
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00D4FF,100:8A2BE2&section=footer" alt="footer"/></p>
 
 <p align="center"><strong>🔥 Let’s build and solve together. Connect and collaborate anytime!</strong></p>
+
+<!--
+Notes on effects:
+- GitHub sanitizes CSS/JS in READMEs, so true hover/3D is blocked. We emulate motion with animated SVG services (capsule-render, typing SVG) and dynamic shields for stars/issues/last commit.
+- If you want REAL hover/glassmorphism/3D tilt, I can spin up a GitHub Pages portfolio with custom CSS/JS.
+-->
