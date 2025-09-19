@@ -4,7 +4,14 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=640&lines=Competitive+Programmer;MERN+Stack+Web+Developer;DSA+%7C+Backend+%7C+Frontend%20%7C%20MongoDB;Open%20Source%20Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=640&lines=Competitive+Programmer;MERN+Stack+Web+Developer;DSA+%7C+Backend+%7C%20Frontend%20%7C%20MongoDB;Open%20Source%20Contributor" alt="Typing SVG" />
+</p>
+
+<!-- GitHub badges -->
+<p align="center">
+  <img src="https://img.shields.io/github/followers/sourabh1211?style=for-the-badge&label=Followers"/>
+  <img src="https://img.shields.io/github/stars/sourabh1211?style=for-the-badge&label=Stars"/>
+  <img src="https://img.shields.io/badge/Repos-Public-blue?style=for-the-badge"/>
 </p>
 
 <p align="center">
@@ -149,6 +156,15 @@
 <!-- Animated motion line -->
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6" alt="divider"/></p>
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sourabh1211&theme=radical&no-bg=true&no-frame=true&column=6" alt="trophies"/>
+</p>
+
+<!-- Animated motion line -->
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6" alt="divider"/></p>
+
 ## 📈 CP Summary
 
 <table align="center">
@@ -180,6 +196,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=sourabh1211&theme=radical" height="200px"/>
 </p>
 
+<!-- Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sourabh1211&theme=react-dark&hide_border=true&area=true" alt="activity-graph"/>
+</p>
+
+<!-- Snake (contribution graph animation) -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake"/>
 </p>
@@ -188,3 +210,9 @@
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00D4FF,100:8A2BE2&section=footer" alt="footer"/></p>
 
 <p align="center"><strong>🔥 Let’s build and solve together. Connect and collaborate anytime!</strong></p>
+
+<!--
+Notes:
+- GitHub READMEs don’t allow custom CSS/JS; all animations come from external SVG/GIF services (safe).
+- If any third-party image endpoint rate-limits, reload or use your own fork of the service.
+-->
