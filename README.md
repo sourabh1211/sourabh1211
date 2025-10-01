@@ -1,4 +1,4 @@
-<!-- Fancy animated header -->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:8A2BE2,100:00D4FF&text=Hi%20👋,%20I'm%20Sourabh%20Verma&fontSize=40&fontAlignY=35&animation=fadeIn" alt="header"/>
 </p>
@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=640&lines=Competitive+Programmer;MERN+Stack+Web+Developer;DSA+%7C+Backend+%7C%20Frontend%20%7C%20MongoDB;Open%20Source%20Contributor" alt="Typing SVG" />
 </p>
 
-<!-- GitHub badges -->
+
 <p align="center">
   <img src="https://img.shields.io/github/followers/sourabh1211?style=for-the-badge&label=Followers"/>
   <img src="https://img.shields.io/github/stars/sourabh1211?style=for-the-badge&label=Stars"/>
