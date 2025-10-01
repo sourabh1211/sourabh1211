@@ -206,13 +206,6 @@
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake"/>
 </p>
 
-<!-- Footer motion line -->
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00D4FF,100:8A2BE2&section=footer" alt="footer"/></p>
 
 <p align="center"><strong>🔥 Let’s build and solve together. Connect and collaborate anytime!</strong></p>
-
-<!--
-Notes:
-- GitHub READMEs don’t allow custom CSS/JS; all animations come from external SVG/GIF services (safe).
-- If any third-party image endpoint rate-limits, reload or use your own fork of the service.
--->
